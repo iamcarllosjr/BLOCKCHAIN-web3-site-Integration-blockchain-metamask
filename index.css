@@ -1,0 +1,15 @@
+body {
+   overflow-x: hidden; 
+   /*para evitar que o usuário consiga rolar até a barra de links de navegação
+   quando ela tiver um valor negativo à direita. */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Sofia Sans', sans-serif;
+  letter-spacing: 0.50px;
+}
